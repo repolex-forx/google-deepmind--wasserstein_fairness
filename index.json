@@ -1,0 +1,11 @@
+{
+  "org": "google-deepmind",
+  "repo": "wasserstein_fairness",
+  "versions": [
+    {
+      "commit": "eb4483a2e76f6a3c63bb9019ad1673a6764c80f5",
+      "tag": "",
+      "parsed_at": "2026-11-06T08:12:55.224482+00:00"
+    }
+  ]
+}
