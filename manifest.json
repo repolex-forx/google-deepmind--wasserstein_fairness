@@ -1,0 +1,26 @@
+{
+  "manifest_version": "1.0",
+  "org": "google-deepmind",
+  "repo": "wasserstein_fairness",
+  "versions": [
+    {
+      "commit": "eb4483a2e76f6a3c63bb9019ad1673a6764c80f5",
+      "parsed_at": "2026-11-06T08:10:41.017689+00:00",
+      "filetree": "filetree/eb4483a2e76f6a3c63bb9019ad1673a6764c80f5.nq.gz",
+      "blobs": [
+        "blob/7dd56382f9f554f6eea3ad128d389b95aecc97d7.nq.gz",
+        "blob/8ec769c597d87d2ca3df3c6877f825888d298ef6.nq.gz",
+        "blob/ae805167a58e189f57160deeb3691848a17380f2.nq.gz",
+        "blob/d645695673349e3947e8e5ae42332d0ac3164cd7.nq.gz",
+        "blob/91fd3b1cd0605ba5fb40eae4ba51dc96e5324d56.nq.gz",
+        "blob/19ea3395dd7a3d169cc099d7d313068ebadf7d31.nq.gz",
+        "blob/202bd9ea161d7192c0bc3f2b2422929820a7fdb7.nq.gz",
+        "blob/14156ef956871d52a8c1c25a2298920aa3b08068.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
