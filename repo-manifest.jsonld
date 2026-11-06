@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/google-deepmind/wasserstein_fairness/commit/eb4483a2e76f6a3c63bb9019ad1673a6764c80f5",
       "git:hexsha": "eb4483a2e76f6a3c63bb9019ad1673a6764c80f5",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-06T08:12:55.224067+00:00"
     }
   ]
 }
